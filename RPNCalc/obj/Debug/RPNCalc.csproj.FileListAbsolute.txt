@@ -1,0 +1,10 @@
+c:\users\kmuthuku\documents\visual studio 2013\Projects\RPNCalc\RPNCalc\bin\Debug\RPNCalc.exe.config
+c:\users\kmuthuku\documents\visual studio 2013\Projects\RPNCalc\RPNCalc\bin\Debug\RPNCalc.exe
+c:\users\kmuthuku\documents\visual studio 2013\Projects\RPNCalc\RPNCalc\bin\Debug\RPNCalc.pdb
+c:\users\kmuthuku\documents\visual studio 2013\Projects\RPNCalc\RPNCalc\bin\Debug\nunit.framework.dll
+c:\users\kmuthuku\documents\visual studio 2013\Projects\RPNCalc\RPNCalc\bin\Debug\nunit.framework.xml
+c:\users\kmuthuku\documents\visual studio 2013\Projects\RPNCalc\RPNCalc\obj\Debug\RPNCalc.csprojResolveAssemblyReference.cache
+c:\users\kmuthuku\documents\visual studio 2013\Projects\RPNCalc\RPNCalc\obj\Debug\RPNCalc.Properties.Resources.resources
+c:\users\kmuthuku\documents\visual studio 2013\Projects\RPNCalc\RPNCalc\obj\Debug\RPNCalc.csproj.GenerateResource.Cache
+c:\users\kmuthuku\documents\visual studio 2013\Projects\RPNCalc\RPNCalc\obj\Debug\RPNCalc.exe
+c:\users\kmuthuku\documents\visual studio 2013\Projects\RPNCalc\RPNCalc\obj\Debug\RPNCalc.pdb
